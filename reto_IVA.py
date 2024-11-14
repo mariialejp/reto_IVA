@@ -14,8 +14,13 @@ for _ in cliente:
 print("HISTORICO DE DATOS INTRODUCIDOS POR CLIENTES")
 historico_precio = [45, 50, 20]
 historico_nombre = ["Maria", "Luisa", "Ana"]
-print(f"{historico_nombre} hicieron cálculos con: {historico_precio} euros respectivamente")
+print(f"{historico_nombre} hicieron cálculos con: {historico_precio} euros respectivamente") 
+# MEJORAS: se requiere mejorar la presentación de los datos del historico de una forma más ordenada
 
+
+# Como un usuario que no sabe calcular el valor del IVA de un precio
+# Quiero una calculadora de IVA 
+# Para que haga el cálculo del valor del IVA y el precio total con IVA, conociendo el precio sin IVA y el porcentaje de IVA
 
 
 
